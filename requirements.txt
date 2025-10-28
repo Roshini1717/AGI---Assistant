@@ -1,0 +1,13 @@
+customtkinter
+opencv-python
+pillow
+numpy
+sounddevice
+wavio
+speechrecognition
+pydub
+transformers
+torch
+pyautogui
+keyboard
+pywinauto

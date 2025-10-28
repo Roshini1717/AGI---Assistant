@@ -1,0 +1,63 @@
+{
+    "video_file": "recordings/screen_capture.avi",
+    "timestamp": "2025-10-27 12:11:32",
+    "fps": 10.0,
+    "total_frames": 74,
+    "actions_detected": [
+        {
+            "id": 1,
+            "frame": 0,
+            "activity": "User action detected (motion 41314)"
+        },
+        {
+            "id": 2,
+            "frame": 1,
+            "activity": "User action detected (motion 7601)"
+        },
+        {
+            "id": 3,
+            "frame": 12,
+            "activity": "User action detected (motion 7730)"
+        },
+        {
+            "id": 4,
+            "frame": 13,
+            "activity": "User action detected (motion 7595)"
+        },
+        {
+            "id": 5,
+            "frame": 41,
+            "activity": "User action detected (motion 9361)"
+        },
+        {
+            "id": 6,
+            "frame": 43,
+            "activity": "User action detected (motion 7564)"
+        },
+        {
+            "id": 7,
+            "frame": 48,
+            "activity": "User action detected (motion 39344)"
+        },
+        {
+            "id": 8,
+            "frame": 52,
+            "activity": "User action detected (motion 40138)"
+        },
+        {
+            "id": 9,
+            "frame": 53,
+            "activity": "User action detected (motion 36374)"
+        },
+        {
+            "id": 10,
+            "frame": 55,
+            "activity": "User action detected (motion 7260)"
+        },
+        {
+            "id": 11,
+            "frame": 56,
+            "activity": "User action detected (motion 33469)"
+        }
+    ]
+}
